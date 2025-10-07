@@ -30,21 +30,21 @@ const studentsJSON = `
     "branch": "CSE",
     "year": "2nd Year",
     "email": "manav.lathiya@charusat.edu.in",
-    "photo": "https://randomuser.me/api/portraits/men/31.jpg"
+    
   },
   {
     "name": "Priya Patel",
     "branch": "IT",
     "year": "1st Year",
     "email": "priya.patel@charusat.edu.in",
-    "photo": "https://randomuser.me/api/portraits/women/44.jpg"
+    
   },
   {
     "name": "Rahul Mehta",
     "branch": "ECE",
     "year": "3rd Year",
     "email": "rahul.mehta@charusat.edu.in",
-    "photo": "https://randomuser.me/api/portraits/men/56.jpg"
+  
   }
 ]
 `;
